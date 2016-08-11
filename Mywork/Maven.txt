@@ -1,0 +1,8 @@
+mvn archetype:generate -DgroupId=com.companyname.automobile -DartifactId=trucks -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+-----------------------
+Conver simplwe dynamic web project to maven project.
+Steps
+1) Create we project
+2) right click on project -> Configure -> Convert to maven project
+3) run as 6-> goal=maven clean
+4) run as 4-> maven build ---write 'clean install' inside goals field

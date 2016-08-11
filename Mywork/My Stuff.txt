@@ -1,0 +1,18 @@
+SYATEM Variable
+
+
+JAVA_HOME
+C:\Program Files\Java\jdk1.8.0_31
+
+MAVEN_HOME
+P:\Users\swkhopad\Desktop\Softwares\apache-maven-3.3.9
+
+PATH
+P:\Users\swkhopad\Desktop\Softwares\apache-maven-3.3.9\bin
+
+
+
+/Users/swkhopad/Desktop/Softwares/Mywork
+
+
+

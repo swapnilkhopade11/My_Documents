@@ -1,0 +1,41 @@
+Apache study
+
+Run startup.bat from below location
+P:\Users\swkhopad\Desktop\Softwares\Softwares\apache-tomcat-7.0.69\bin
+
+-----------------------------------------
+
+In below location add below xml to this file (tomcat-users.xml)
+P:\apache-tomcat-7.0.69\conf
+
+<role rolename="tomcat"/>
+<role rolename="manager"/>
+<role rolename="admin"/>
+<role rolename="manager-gui"/>
+
+<user username="xyz" password="xyz" roles="standard,manager,admin,manager-gui,manager-script" />
+
+-----------------------------------------
+
+Click "Manager App"
+Enter above provided credentials
+xyz and xyz
+-----------------------------------------
+
+log folder
+P:\apache-tomcat-7.0.69\logs
+
+-----------------------------------------
+Deploying my applications on Apache thoguh webaps
+Path= P:\apache-tomcat-7.0.69\webapps
+
+Deploying my applications on Apache thoguh localhost
+type -> http://localhost:8080/  into url
+Login "Manager App" as explained above.
+Select .war file and Deploy
+
+
+-----------------------------------------
+Change the port from below file
+server.xml
+path=P:\apache-tomcat-7.0.69\conf

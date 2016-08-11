@@ -1,0 +1,32 @@
+Working with Jenkins: Fundamentals
+
+https://capgemini.sumtotalsystems.com/sumtotal/learner/search?searchText=Working%20with%20Jenkins:%20Fundamentals
+
+
+Using Docker: Benefits and Installation
+
+https://capgemini.sumtotalsystems.com/sumtotal/learner/search?searchText=Using Docker: Benefits and Installation
+
+------------------------
+IBM Bluemix Overview
+
+https://developer.ibm.com/courses/all-courses/bluemix-essentials/
+UserName: swapnilkhopade11@gmail.com
+Pass: Dattaguru@1234
+
+bluemix.net
+UserName: swapnilkhopade11@gmail.com
+Pass: Dattaguru@1234
+
+https://signin.capgemini.com/opensso/UI/Login?goto=https://capgemini.sumtotalsystems.com/sumtotal/app/management/LMS_CNT_LaunchCourse.aspx%3FUserMode%3D0%26ActivityId%3D450297
+
+-----------------------
+
+Using Puppet: Implementation and Benefits
+
+https://capgemini.sumtotalsystems.com/sumtotal/learner/search?searchText=Using Puppet: Implementation and Benefits
+
+
+Using Puppet: Configuration and Programming
+
+https://capgemini.sumtotalsystems.com/sumtotal/learner/search?searchText=Using Puppet: Configuration and Programming

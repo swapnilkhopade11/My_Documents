@@ -1,0 +1,73 @@
+To list files into text file
+ls -lrt >> file.txt
+Or
+ls >> file.txt
+---------------------
+
+Remove file from dir
+-> rm myfirsttxt.txt
+----------------------
+How to check history
+-> history
+----------------------
+How to see file without open it
+-> cat filename.txt
+----------------------
+echo command This will create file and add data to file
+deletes exist file and create new file
+-> echo this is Batch first line > file.txt
+----------------------
+Apend the data into same file
+-> echo this is batch second line >> file.txt
+
+----------------------
+To apend next line after first line.
+echo file.txt
+----------------------
+Arithmetic calculations
+-> echo $((10*10-25))
+----------------------
+To display date
+-> date
+-> echo $(date)
+----------------------
+To copy date into file
+//Here $ sign will act as varilable and date will convert as string and will copy into file
+-> echo $(date) >> file.txt
+---------------------
+To know process
+ps -e | grep 'java'
+---------------------
+1) Create Script for run all command in one touch
+Open VI editor
+vi filenemae.txt
+
+2) Press Esc then click "I"--> for insert mode
+
+3) Add multiple commands
+
+4) Save the commends
+press Esc , then write ":wq" and Enter
+
+5)Run the shell script
+
+---------------------
+Creating shel
+sudo usermod -s /usr/bin/sh swkhopad
+
+running script
+chmod +x scriptname
+
+---------------------
+mvn command
+Create MVN folder in c drive
+Go to that drive through cmd
+write below command
+
+mvn archetype:generate -DgroupId=com.companyname.bank -DartifactId=consumerBanking -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+---------------------
+Path for Selenium download
+http://selenium-release.storage.googleapis.com/index.html?path=2.53/
+
+http://chromedriver.storage.googleapis.com/index.html?path=2.21/
+---------------------

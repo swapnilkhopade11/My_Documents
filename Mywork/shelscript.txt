@@ -1,0 +1,7 @@
+# /bin/sh
+
+echo $((10*10-25))
+ls -lrth
+pwd
+echo this is Batch first line > file.txt
+echo this is batch second line >> file.txt

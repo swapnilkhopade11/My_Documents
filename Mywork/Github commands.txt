@@ -1,0 +1,52 @@
+Install git
+create github account on website
+Open git bash
+---
+
+Git version command
+git --version
+-----
+To sync your code with git
+git config --global user.name "swapnilkhopade11@gmail.com"
+-------------
+create one folder as repository
+go inside that folder by git bash
+Enter below command to synch youer folder with git
+git init
+-------------
+Create file
+touch hello.txt
+
+Move the file to staging area
+git add hello.txt
+
+command for know the status
+ git status
+
+-------------
+Run below command for provide user name
+git push origin master
+
+
+commit the changes //Adding staging to repository
+git commit -m "this is my first dev comment"
+
+
+-------------
+checkout from github
+git clone https://github.com/swapnilkhopade11/swapnil_repo.git
+-------------
+fetch the data from remote and put it to local repository (Update)
+git pull origin master
+-------------
+to show git logs
+git log
+-------------
+
+-------------
+-------------
+-------------
+-------------
+-------------
+
+

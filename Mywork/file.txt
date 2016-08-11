@@ -1,0 +1,14 @@
+this is first line
+this is second line
+Tue, Aug 02, 2016 12:16:59 PM
+total 8
+-rw-r--r-- 1 CORP+swkhopad 3221225985  259 Aug  2 11:40 My Stuff.txt
+-rw-r--r-- 1 CORP+swkhopad 3221225985   69 Aug  2 12:16 file.txt
+-rw-r--r-- 1 CORP+swkhopad 3221225985    2 Aug  2 13:00 temp.txt
+-rw-r--r-- 1 CORP+swkhopad 3221225985  134 Aug  2 14:25 shelscript.txt
+-rw-r--r-- 1 CORP+swkhopad 3221225985 1359 Aug  2 14:26 commands.txt
+commands.txt
+file.txt
+My Stuff.txt
+shelscript.txt
+temp.txt
